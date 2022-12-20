@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/ContactApp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Contact_Room_DB" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/LoveCalculator" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MyLoginWithMVVM" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MySQLiteDBProject" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/RetrofitAPICallingProject" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TODO_APP_ROOM_DB" vcs="Git" />
+  </component>
+</project>
